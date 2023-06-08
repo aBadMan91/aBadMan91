@@ -8,10 +8,10 @@ My interests are video games, hardware/tech and football.
 
 <img src="https://th.bing.com/th/id/OIG.8gaVF3flTv4YlNARn1dH?pid=ImgGn" alt="computer parts" width=400 />
 
-## My socials
+## My links
 
-<a href="https://twitter.com/aBadMan91">
-  <img align="left" alt="aBadMan91's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/aleksander-engen-5608b5115/">
+  <img align="left" alt="aBadMan91's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <!--
