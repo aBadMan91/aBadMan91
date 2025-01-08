@@ -6,8 +6,6 @@ I'm still learning so there is not much to say yet.
 
 My interests are video games, hardware/tech and football.
 
-<img src="https://th.bing.com/th/id/OIG.8gaVF3flTv4YlNARn1dH?pid=ImgGn" alt="computer parts" width=400 />
-
 ## My links
 
 [My Twitter](https://twitter.com/aBadMan91)
