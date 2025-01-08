@@ -10,9 +10,7 @@ My interests are video games, hardware/tech and football.
 
 ## My links
 
-<a href="https://www.linkedin.com/in/aleksander-engen-5608b5115/">
-  <img align="left" alt="aBadMan91's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[My Twitter](https://twitter.com/aBadMan91)
 
 <!--
 **aBadMan91/aBadMan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
