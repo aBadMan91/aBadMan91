@@ -2,8 +2,6 @@
 
 I am a Front-end developer student from Norway.
 
-I'm still learning so there is not much to say yet.
-
 My interests are video games, hardware/tech and football.
 
 ## My links
