@@ -8,7 +8,7 @@ My interests are video games, hardware/tech and football.
 
 ## My links
 
-[Twitter](https://twitter.com/aBadMan91) - [Nexus Profile](https://next.nexusmods.com/profile/aBaDmAn91)
+[LinkedIn](https://www.linkedin.com/in/alekeng/) - [Twitter](https://twitter.com/aBadMan91) - [Nexus Profile](https://next.nexusmods.com/profile/BadMan91)
 
 <!--
 **aBadMan91/aBadMan91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
